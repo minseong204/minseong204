@@ -1,16 +1,58 @@
-### Hi there 👋
 
-<!--
-**minseong204/minseong204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://solved.ac/minseong2083"><img align="right" src="http://mazandi.herokuapp.com/api?handle=minseong2083&theme=dark"/></a>
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MinSeong
+
+<p align="">
+안녕하세요!🙈<br>
+저는 백엔드 개발자로 공부하고 있는 조민성입니다!<img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+</p>
+
+---
+<a align="">
+<Strong>☁️SNS list☁️</Strong>
+<br><br>
+<a href="https://velog.io/@minseong1459" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013595118007" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/witty._.m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br>
+
+---
+<p align="center">
+<Strong>My Email📧</Strong><br>minseong2083@icloud.com<br>
+</p>
+
+<br>
+
+---
+<p align="center">
+   <Strong>⚒️Tech Stack⚒️</Strong><br><br>
+   <Strong>🥇 Main Tech</Strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
+</p>
+
+---
+<br><br>
+<div align="center">
+
+![minseong's github stats](https://github-readme-stats.vercel.app/api?username=minseong204&show_icons=true)
+
+  
+
+
