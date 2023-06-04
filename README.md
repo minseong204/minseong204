@@ -1,4 +1,3 @@
-
 <a href="https://solved.ac/minseong2083"><img align="right" src="http://mazandi.herokuapp.com/api?handle=minseong2083&theme=dark"/></a>
 
   
@@ -6,17 +5,19 @@
 ## MinSeong
 
 <p align="">
-안녕하세요!🙈<br>
-저는 백엔드 개발자로 공부하고 있는 조민성입니다!<img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+안녕하세요!🙈<br> <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+저는 백엔드 개발자로 공부하고 있는 조민성입니다!
 </p>
 
 ---
-<a align="">
+
+<p align="center">
 <Strong>☁️SNS list☁️</Strong>
 <br><br>
 <a href="https://velog.io/@minseong1459" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100013595118007" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/witty._.m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 <br>
 
 ---
