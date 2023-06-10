@@ -17,6 +17,7 @@
 <a href="https://velog.io/@minseong1459" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100013595118007" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/witty._.m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://typical-kiwi-e9d.notion.site/Minchive-ceb883e6523c4087ba5fd3cf6ec49185?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black"/></a>
 </p>
 <br>
 
