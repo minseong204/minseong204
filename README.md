@@ -30,7 +30,7 @@
 ---
 <br><br>
 <Strong>🧑‍💻 Status 🧑‍💻 </Strong>
-![minseong's github stats](https://github-readme-stats.vercel.app/api?username=minseong204&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseong204&langs_count=10&layout=compact)](https://github.com/minseong204/minseong204)
+![minseong's github stats](https://github-readme-stats.vercel.app/api?username=minseong204&show_icons=true&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseong204&langs_count=10&layout=compact)](https://github.com/minseong204/minseong204)
 
   
 
